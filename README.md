@@ -19,18 +19,17 @@ Bienvenue dans ce projet réalisé dans le cadre d’un exercice de classe. Nous
 - Préconfiguré pour l’hébergement et optimisé pour les performances.  
 
 ### 🔹 Déploiement sur serveur distant  
-- Hébergement du site sur **[freeinfinity.com](https://freeinfinity.com)**, démontrant notre capacité à gérer un déploiement sur un serveur distant.  
+- Hébergement du site sur **[Notre site wordpress](https://bacho-design.42web.io/wordpress/)**, Grace à l'hebergeur freeinfinity.  
 - Garantie d’accessibilité du site et de son bon fonctionnement en production.  
 
 ## 📂 Structure du projet  
 
 ### Répertoires principaux
 - **theme/** : contient le thème WordPress développé (avec un README spécifique).  
-- **site/** : regroupe les fichiers d’installation pour importer le site sur un environnement local ou distant.  
+- **site/** : regroupe les fichiers d’installation pour importer le site sur un environnement local ou distant. (avec un README spécifique qui tient lieu de guide de déploiement) 
   - Export compatible avec **LocalWP** et **WPVivid**.  
   - Guide d’installation détaillé inclus.  
 
-Pour une vue détaillée, reportez-vous à la section [Structure des fichiers](#-structure-des-fichiers).  
 
 ## 👥 Équipe  
 
