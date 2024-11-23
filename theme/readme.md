@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Le thème **Notre Thème Groupe1** a été conçu spécialement pour répondre aux besoins des quincailleries, comme **FOKOU** et **QUIFEUROU**, offrant une interface élégante et moderne. Il est entièrement responsive, facile à personnaliser et optimisé pour améliorer l'expérience utilisateur, tout en mettant en avant des produits et services d'une quincaillerie. Ce thème est parfait pour toute entreprise souhaitant offrir une expérience web fluide, moderne et accessible sur tous les appareils.
+Le thème **Notre Thème Groupe1** a été conçu spécialement pour répondre aux besoins des quincailleries comme **FOKOU** et **QUIFEUROU**, offrant une interface élégante et moderne. Il est entièrement responsive, facile à personnaliser et optimisé pour améliorer l'expérience utilisateur, tout en mettant en avant des produits et services d'une quincaillerie. Ce thème est parfait pour toute entreprise souhaitant offrir une expérience web fluide, moderne et accessible sur tous les appareils.
 
 ### Fonctionnalités Principales
 

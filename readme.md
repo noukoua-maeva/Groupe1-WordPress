@@ -8,7 +8,7 @@ Bienvenue dans ce projet réalisé dans le cadre d’un exercice de classe. Nous
 - Design **moderne et responsive** adapté aux besoins actuels.  
 - Utilisation des **bonnes pratiques WordPress** pour garantir la compatibilité et les performances.  
 - Personnalisation facile directement sur WordPress. 
-- Mode sombre/ mode clair. 
+- Mode sombre et mode clair.
 
 ### 🔹 Site E-Commerce  
 - Intégration avec WordPress pour un **système de gestion simple et efficace**.  
